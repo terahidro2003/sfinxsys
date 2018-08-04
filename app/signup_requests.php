@@ -7,6 +7,6 @@ use Illuminate\Database\Eloquent\Model;
 
 class signup_requests extends Model
 {
-	use Searchable;
+	//use Searchable;
     //
 }
